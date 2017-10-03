@@ -26,3 +26,11 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springso
 
 !ENTRY org.eclipse.lsp4e 1 0 2017-10-03 17:17:29.474
 !MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.core.resources 2 2 2017-10-03 17:22:39.350
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2017-10-03 17:22:39.350
+!MESSAGE The project description file (.project) for 'RemoteSystemsTempFiles' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-10-03 17:25:26.061
+!MESSAGE The workspace will exit with unsaved changes in this session.
